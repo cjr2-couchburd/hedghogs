@@ -1,0 +1,28 @@
+WORKSHOP 1 - layout
+
+1.Create boilerpalte
+2.add starter code
+3. put in rows
+4. add responsive image class (rounded  img-fluid)
+ mobile first
+5. add margin and padding (bellow main image mb-3, around title p-4, around title row m-5, footer py-4)
+4. put in basic columns for sm
+6. put in basic columns for md
+6. put in hide lg code (d-lg-none d-xl-block)
+
+7. Do xl yourself
+
+
+Workhop 2 - components
+add navigation
+add margin to navigation
+add a carolse
+add margin to carosel
+change top to horrizonal card
+
+
+
+QUESTIONS
+
+how many h1 tags can i have on a page?
+what is the alt tag for in images
